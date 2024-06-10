@@ -1,0 +1,96 @@
+{
+  "productos": [
+    {
+      "id": null,
+      "codigo": "puerta",
+      "nombre": "puerta",
+      "descripcion": "abre y cierra ",
+      "precio": 666,
+      "imagen": null,
+      "categoria": null,
+      "cantidad": null,
+      "estadoInventario": null,
+      "rating": null
+    },
+    {
+      "id": null,
+      "codigo": "12345",
+      "nombre": "Pulceraa",
+      "descripcion": "aaaaaaaa",
+      "precio": 46,
+      "imagen": "https://th.bing.com/th/id/OIP.X0L-k-BpRJFy6Q6tEHcYxQHaGf?w=224&h=196&c=7&r=0&o=5&dpr=1.3&pid=1.7",
+      "categoria": "holaaa",
+      "cantidad": 3,
+      "estadoInventario": "nose",
+      "rating": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "ccf7",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "5061",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "185f",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "13a4",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "159e",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "5ea6",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "b57c",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "0048",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "05fb",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "2dfd",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    },
+    {
+      "id": "3b20",
+      "fullName": "Nayeli Jaqueline Padrón Velázquez",
+      "email": "nayelii.jaqui.p.v@gmail.com",
+      "password": "Nayelipadron@"
+    }
+  ]
+}

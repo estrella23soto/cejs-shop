@@ -1,0 +1,19 @@
+
+<p-toolbar
+styleClass="bg-blue-900 shadow-2"
+[style]="{
+'border-radius': '3rem',
+'background-image':
+'linear-gradient(to right, var(--bluegray-500), var(--bluegray-800))'
+}"
+>
+<ng-template pTemplate="start" >
+<span class="font-bold text-bluegray-50"> Home </span>
+</ng-template>
+<ng-template pTemplate="end">
+<div class="flex align-items-center gap-2">
+<p-menu #menu [model]="items" [popup]="true" />
+<p-button (click)="menu.toggle($event)" icon="pi pi-ellipsis-v"/>
+</div>
+</ng-template>
+</p-toolbar>
