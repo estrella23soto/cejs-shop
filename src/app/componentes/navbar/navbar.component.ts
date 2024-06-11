@@ -23,6 +23,11 @@ label: 'Registrar',
 icon: 'pi pi-user-plus',
 routerLink:'/register'
 },
+{
+  label: 'Productos',
+  icon: 'pi cart-plus',
+  routerLink:'/productos'
+  },
 ],
 },
 ];
